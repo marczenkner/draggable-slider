@@ -1,0 +1,31 @@
+{
+  "name": "draggable-slider",
+  "version": "1.0.0",
+  "description": "A snapping slider that uses both drag and click/tap events to select array-based values.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marczenkner/draggable-slider.git"
+  },
+  "keywords": [
+    "Slider",
+    "GSAP",
+    "Draggable",
+    "TweenMax",
+    "array",
+    "snapping"
+  ],
+  "author": "Marc Zenkner - 2017",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marczenkner/draggable-slider/issues"
+  },
+  "homepage": "https://github.com/marczenkner/draggable-slider#readme",
+  "dependencies": {
+    "gsap": "^1.20.2",
+    "jquery": "^3.2.1"
+  }
+}
